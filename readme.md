@@ -62,6 +62,7 @@ int main(){
 	printf("c\n");
 	return 0;
 }
+```
 
 ```cpp
 #include<iostream>
@@ -70,3 +71,13 @@ int main()
 {
 	cin<<"C++"<<endl;
 }
+```
+
+```bash
+	echo "数据回显命令"
+	ps aux
+```
+
+#超链接
+
+[Bilibili](https://www.bilibili.com "点击进入b站")
