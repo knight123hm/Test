@@ -53,3 +53,20 @@
 刘备|跑|1
 关羽|忍痛|2
 张飞|睡觉|3
+
+#代码插入
+
+...c
+#include<stdio.h>
+int main(){
+	printf("c\n");
+	return 0;
+}
+
+...cpp
+#include<iostream>
+using namespace std;
+int main()
+{
+	cin<<"C++"<<endl;
+}
