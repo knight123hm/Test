@@ -56,14 +56,14 @@
 
 #代码插入
 
-'''c
+```c
 #include<stdio.h>
 int main(){
 	printf("c\n");
 	return 0;
 }
 
-'''cpp
+```cpp
 #include<iostream>
 using namespace std;
 int main()
